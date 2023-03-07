@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 300px;
+  min-height: 80vh;
+  background-image: linear-gradient( to bottom, rgba(255, 255, 255, 0.5), rgba(0,0,0,0.7) ), url(/src/assets/background.jpeg);
+  background-size: cover;
+}
+
+
+
+
+
